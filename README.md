@@ -25,7 +25,7 @@
 
 ## 📫 Let's Connect  
 
-💼 **LinkedIn:** [linkedin.com/in/your-linkedin](https://linkedin.com/in/hannanrazzaghi)  
+💼 **LinkedIn:** [linkedin.com/in/hannanrazzaghi](https://linkedin.com/in/hannanrazzaghi)  
 📧 **Email:** hannanrazzaghi@gmail.com  
 🔗 **Portfolio:** [hannanrazzaghi.ir](https://hannanrazzaghi.ir)  
 
