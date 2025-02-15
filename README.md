@@ -1,6 +1,6 @@
 # Hannan Razzaghi  
 
-📍 Tehran, Iran | 📞 +98 939 143 0200 | 📧 hannanrazzaghi@gmail.com | 🐙 [GitHub Profile](https://github.com/your-github) | 💼 [LinkedIn Profile](https://linkedin.com/in/your-linkedin) | 🔗 [Portfolio](https://hannanrazzaghi.ir)  
+📍 Tehran, Iran | 📞 +98 939 143 0200 | 📧 hannanrazzaghi@gmail.com | 🐙 [GitHub Profile](https://github.com/hannanrazzaghi) | 💼 [LinkedIn Profile](https://linkedin.com/in/hannanrazzaghi) | 🔗 [Portfolio](https://hannanrazzaghi.ir)  
 
 ## 🛠 About Me  
 
