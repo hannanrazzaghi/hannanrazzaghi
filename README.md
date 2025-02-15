@@ -1,6 +1,5 @@
-# Hey there! 👋 I'm Hannan Razzaghi  
+# I'm Hannan Razzaghi | **Software Engineer | AI Enthusiast**  
 
-🚀 **Software Engineer | AI Enthusiast**  
 🔍 Passionate about building **scalable, performant** applications using **Django, Python, and system design** principles.  
 💡 Exploring the intersection of **backend development, AI, and data-driven decision making**.  
 
@@ -19,8 +18,8 @@
 ## 🌟 Some Cool Projects  
 
 - **[DocBook](https://github.com/your-github/docbook)** → AI-powered doctor appointment booking system.  
-- **Django Content Rating API** → Optimized Django API with Redis caching, reducing response times by 35%.  
-- **Deep Learning Image Classifier** → Built a simple deep learning model from scratch using NumPy.  
+- **[Django Content Rating API](https://github.com/hannanrazzaghi/Django-Content-Rating-API)** → Optimized Django API with Redis caching, reducing response times by 35%.  
+- **[Deep Learning Image Classifier](https://github.com/hannanrazzaghi/Deep-Neural-Network)** → Built a simple deep learning model from scratch using NumPy.  
 
 ---
 
