@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hannan Razzaghi  
 
-<!--
-**hannanrazzaghi/hannanrazzaghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Tehran, Iran | 📞 +98 939 143 0200 | 📧 hannanrazzaghi@gmail.com | 🐙 [GitHub Profile](https://github.com/your-github) | 💼 [LinkedIn Profile](https://linkedin.com/in/your-linkedin) | 🔗 [Portfolio](https://hannanrazzaghi.ir)  
 
-Here are some ideas to get you started:
+## 🛠 About Me  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate **Software Engineer** specializing in backend development, system design, and performance optimization. I have a strong background in **Python** and **Django**, with experience in building scalable and secure applications. My interests extend to **AI**, **machine learning**, and **deep learning**, leveraging data-driven solutions for better software performance.  
+
+## 💼 Work Experience  
+
+### **Software Engineer Intern** | Quera, Tehran, Iran  
+📅 **Aug 2023 – Nov 2023**  
+- Developed **smart contracts** using Solidity for an **NFT marketplace**.  
+- Built and integrated **Django-based backend services**, handling **authentication, asset management, and transaction tracking**.  
+- Strengthened knowledge of **blockchain fundamentals**, including **Bitcoin** and **Ethereum**.  
+- Worked in an **agile** environment, participating in **code reviews** and **iteration planning**.  
+
+## 🎓 Education  
+
+### **Master’s Student in Data Science** | Tarbiat Modares University  
+📅 **2024 – Present**  
+**Key Courses:** Machine Learning, Modern Databases, Computer Vision  
+
+### **Bachelor’s in Applied Mathematics** | Amirkabir University of Technology  
+📅 **2019 – 2024**  
+**Key Courses:** Data Structures & Algorithms, Design & Analysis of Algorithms, Linear Algebra  
+
+## 🚀 Projects  
+
+### **1. DocBook**  
+A **Django-based doctor appointment booking system** with AI-powered recommendations using **DeepSeek AI**.  
+- Developed a **secure backend** with **Django REST Framework** and **PostgreSQL**.  
+- Implemented **doctor scheduling, patient management, and ratings**.  
+- **Dockerized** for deployment and scalability.  
+- Built **RESTful APIs** for seamless frontend integration.  
+📌 **Technologies:** Django, Django REST Framework, PostgreSQL, DeepSeek AI, Docker, HTML, CSS, JavaScript.  
+
+### **2. Django Content Rating API**  
+Designed and optimized a **Django-based content rating API** for better performance.  
+- Implemented efficient **Django views** for managing and retrieving ratings.  
+- Integrated **Redis caching** and **database indexing**, leading to a **35% reduction in response time**.  
+- Measured and optimized performance using **Django Debug Toolbar**.  
+📌 **Technologies:** Django REST Framework, PostgreSQL, Redis, Django Debug Toolbar.  
+
+### **3. Deep Neural Network for Image Classification**  
+Built a **deep learning model from scratch** for **image classification**.  
+- Developed the model using **NumPy and SciPy**, with result visualization using **Matplotlib**.  
+📌 **Technologies:** NumPy, SciPy, Matplotlib.  
+
+## 🛠 Technical Skills  
+
+- **Backend:** Python, Django, Django REST Framework, RESTful APIs  
+- **Databases:** PostgreSQL, Redis, SQLite  
+- **DevOps & Tools:** Docker, Git, Linux, System Design, Performance Optimization  
+- **Other:** Machine Learning & Deep Learning (**NumPy, SciPy, TensorFlow**), Solidity, HTML, CSS, JavaScript, C++  
+
+## 📜 Certifications  
+
+- **Neural Networks and Deep Learning** – Coursera | **Nov 2024**  
+- **Blockchain Development with Solidity** – Quera | **Nov 2023**  
+---
